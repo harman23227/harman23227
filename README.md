@@ -31,7 +31,7 @@
 **CS Foundations:**  
 Operating Systems, Computer Organization, Digital Circuits, Data Structures & Algorithms,  
 Algorithm Design & Analysis, Object Oriented Programming, Linear Algebra, Discrete Mathematics,  
-Probability & Statistics, Statistical Machine Learning, Practical Bioinformatics
+Probability & Statistics, Statistical Machine Learning, Practical Bioinformatics, DataBase Management System
 
 ---
 
